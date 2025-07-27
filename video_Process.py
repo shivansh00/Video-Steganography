@@ -192,7 +192,7 @@ def print_credits():
     table = Table(show_header=True)
     table.add_column("Author", style="yellow")
     table.add_column("Contact", style="yellow")
-    table.add_row("Aryan Bisht", "aryanbisht9458@gmail.com ")
+    table.add_row("Shivansh Thapliyal", "shthapliyal@gmail.com")
     console.print(table)
 
 
